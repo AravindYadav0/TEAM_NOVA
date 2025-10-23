@@ -15,8 +15,7 @@ The AI provides both the **selected client** and a brief **reasoning** behind th
 
 - **Python 3.10+** – programming language  
 - **LangChain** – for prompt templates and chaining LLMs  
-- **Hugging Face Hub** – to access the `google/flan-t5-base` model  
-- **Transformers** – model handling and text generation  
+- **Hugging Face Hub** – to access the `google/flan-t5-base` model   
 - **Optional**: Google Colab for cloud-based execution  
 
 ---
